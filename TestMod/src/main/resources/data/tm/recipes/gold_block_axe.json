@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " xx",
+    " sx",
+    " s "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:gold_block"
+    },
+    "s":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+
+  "result":
+  {
+    "item": "tm:gold_block_axe",
+    "count": 1
+  }
+}

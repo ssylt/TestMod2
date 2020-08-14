@@ -10,5 +10,10 @@
   "block.tm.comp_iron_block" : "Compressed Iron Block",
   "item.tm.diamond_block_pickaxe" : "Compressed Diamond Pickaxe",
   "item.tm.iron_block_pickaxe": "Compressed Iron Pickaxe",
-  "item.tm.gold_block_pickaxe": "Compressed Gold Pickaxe"
+  "item.tm.gold_block_pickaxe": "Compressed Gold Pickaxe",
+  "item.tm.gold_block_axe" : "Compressed Gold Axe",
+  "item.tm.iron_block_axe" : "Compressed Iron Axe",
+  "item.tm.diamond_block_axe": "Compressed Diamond Axe",
+  "item.tm.ruby_axe": "Ruby Axe"
+
 }
