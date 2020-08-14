@@ -3,8 +3,9 @@
 
 v1.0.1
 
-*added block pickaxe for iron, gold and diamond. 9x durability
-*added compressed iron block (useless)
+* added block pickaxe for iron, gold and diamond. 9x durability
+
+* added compressed iron block (useless)
 
 v1.0.0
 
