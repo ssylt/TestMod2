@@ -1,6 +1,8 @@
 # TestMod2
 
+v1.0.2
 
+* added block pickaxe for diamond,iron and gold. 9x durability
 
 v1.0.1
 
