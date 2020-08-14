@@ -1,5 +1,9 @@
 # TestMod2
 
+v1.0.2
+
+* added block hoe,shovel and axe.
+* added ruby axe, shovel, hoe
 
 v1.0.1
 
