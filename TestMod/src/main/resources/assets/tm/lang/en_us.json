@@ -6,5 +6,6 @@
   "item.tm.ruby_sword" : "Ruby Sword",
   "item.tm.ruby_pickaxe" : "Ruby Pickaxe",
   "block.tm.compressed_cobblestone_block" : "Compressed Cobblestone",
-  "item.tm.compressed_cobblestone_pickaxe" : "Compressed Cobblestone Pickaxe"
+  "item.tm.compressed_cobblestone_pickaxe" : "Compressed Cobblestone Pickaxe",
+  "block.tm.comp_iron_block" : "Compressed Iron Block"
 }

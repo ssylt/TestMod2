@@ -2,6 +2,7 @@ package com.botgob.testmod.util;
 
 import com.botgob.testmod.TestMod;
 import com.botgob.testmod.blocks.BlockItemBase;
+import com.botgob.testmod.blocks.CompIronBlock;
 import com.botgob.testmod.blocks.CompressedCobblestoneBlock;
 import com.botgob.testmod.blocks.RubyBlock;
 import com.botgob.testmod.items.ItemBase;
@@ -31,11 +32,15 @@ public class RegistryHandler {
     //Blocks only
     public static final RegistryObject<Block> RUBY_BLOCK = BLOCKS.register("ruby_block", RubyBlock::new);
     public static final RegistryObject<Block> COMPRESSED_COBBLESTONE_BLOCK = BLOCKS.register("compressed_cobblestone_block", CompressedCobblestoneBlock::new);
+    public static final RegistryObject<Block> COMP_IRON_BLOCK = BLOCKS.register("comp_iron_block", CompIronBlock::new);
 
     //Block items only
-    public static final RegistryObject<Item> RUBY_BLOCK_ITEM = ITEMS.register("ruby_block", () -> new BlockItemBase(RUBY_BLOCK.get()));
+    public static final RegistryObject<Item> RUBY_BLOCK_ITEM = ITEMS.register("ruby_block",
+            () -> new BlockItemBase(RUBY_BLOCK.get()));
     public static final RegistryObject<Item> COMPRESSED_COBBLESTONE_BLOCK_ITEM = ITEMS.register("compressed_cobblestone_block",
             () -> new BlockItemBase(COMPRESSED_COBBLESTONE_BLOCK.get()));
+    public static final RegistryObject<Item> COMP_IRON_BLOCK_ITEM = ITEMS.register("comp_iron_block",
+            () -> new BlockItemBase(COMP_IRON_BLOCK.get()));
 
     //Tools only
     // 1 + baseDamage + addedDamage

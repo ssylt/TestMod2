@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "tm:block/comp_iron_block" }
+  }
+}
