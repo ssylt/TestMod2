@@ -1,18 +1,9 @@
 # TestMod2
 
-v1.0.2
-
-* added block pickaxe for diamond,iron and gold. 9x durability
-
-v1.0.1
-
-* Added compressed iron (useless)
-
-
 v1.0.0
+
+added:
 
 * Compressed Cobblestone block and pickaxe
 
 * Ruby block, pickaxe and sword
-
-
