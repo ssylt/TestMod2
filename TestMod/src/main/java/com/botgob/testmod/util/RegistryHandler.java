@@ -54,4 +54,10 @@ public class RegistryHandler {
     public static final RegistryObject<PickaxeItem> COMPRESSED_COBBLESTONE_PICKAXE = ITEMS.register("compressed_cobblestone_pickaxe", () ->
             new PickaxeItem(ModItemTier.COMPRESSED_COBBLESTONE, 0, -2.8f, new Item.Properties().group(TestMod.TAB)));
 
+    public static final RegistryObject<PickaxeItem> IRON_BLOCK_PICKAXE = ITEMS.register("iron_block_pickaxe", () ->
+            new PickaxeItem(ModItemTier.IRON_BLOCK, 0, -2.8f, new Item.Properties().group(TestMod.TAB)));
+    public static final RegistryObject<PickaxeItem> GOLD_BLOCK_PICKAXE = ITEMS.register("gold_block_pickaxe", () ->
+            new PickaxeItem(ModItemTier.GOLD_BLOCK, 0, -2.8f, new Item.Properties().group(TestMod.TAB)));
+    public static final RegistryObject<PickaxeItem> DIAMOND_BLOCK_PICKAXE = ITEMS.register("diamond_block_pickaxe", () ->
+            new PickaxeItem(ModItemTier.DIAMOND_BLOCK, 0, -2.8f, new Item.Properties().group(TestMod.TAB)));
 }
