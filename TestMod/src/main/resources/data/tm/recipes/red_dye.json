@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tm:melted_ruby"
+    }
+  ],
+  "result":
+  {
+    "item": "minecraft:red_dye",
+    "count": 10
+  }
+}
